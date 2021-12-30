@@ -1,3 +1,4 @@
+\\function with arg and no retun...
 #include<stdio.h>
 int sum(int i,int j,int k)
 {
